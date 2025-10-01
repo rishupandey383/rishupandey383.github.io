@@ -83,7 +83,7 @@ I love building **AI-powered applications**, solving **complex problems**, and w
 ---
 
 ## 🖥️ Live Demo
-[project link ](mailto:https://68dd92eb720ff417669a1d47--sunny-daifuku-fb92ae.netlify.app/)
+- 📧 Project: [Project link](mailto:https://68dd92eb720ff417669a1d47--sunny-daifuku-fb92ae.netlify.app/)  
 👉 [View Portfolio Website]([https://your-username.github.io/portfolio/](https://68dd92eb720ff417669a1d47--sunny-daifuku-fb92ae.netlify.app/)) 
 ---
 
