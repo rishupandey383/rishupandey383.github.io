@@ -4,6 +4,8 @@ This is my **personal portfolio website**, built with **HTML, CSS, and JavaScrip
 The site is designed to be **modern, responsive, and recruiter-friendly**, highlighting my journey as a **Software Developer & AI/Data Science Enthusiast**.
 
 ---
+### URL : https://68dd92eb720ff417669a1d47--sunny-daifuku-fb92ae.netlify.app/
+---
 
 ## 🚀 Features
 
